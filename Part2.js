@@ -257,7 +257,7 @@
 //         break;
 //         default:
 //             console.log("Wrong day!");
-// }
+// } 
 
 
 // //  ALERT & PROMPT //
@@ -273,7 +273,4 @@
 // let lastName = prompt("enter last name");
 // console.log("welcome", firstName,"",lastName, "!");
 
-
-// //    ASSIGNMENT QUESTIONS & SOLUTIONS      //
-
-// // QS1
+  
